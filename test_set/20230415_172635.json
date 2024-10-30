@@ -1,0 +1,58 @@
+{
+  "version": "4.5.13",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "غنچه",
+      "points": [
+        [
+          2825.0476190476193,
+          42.142857142857146
+        ],
+        [
+          1744.095238095238,
+          2008.8095238095239
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "frying oil",
+      "points": [
+        [
+          1563.1428571428573,
+          1294.5238095238096
+        ],
+        [
+          1201.2380952380954,
+          2475.4761904761904
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Heat Resistant",
+      "points": [
+        [
+          1172.6666666666667,
+          1456.4285714285716
+        ],
+        [
+          977.4285714285716,
+          2323.095238095238
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "۲۰۲۳۰۴۱۵_۱۷۲۶۳۵.jpg",
+  "imageData": null,
+  "imageHeight": 3088,
+  "imageWidth": 3088
+}

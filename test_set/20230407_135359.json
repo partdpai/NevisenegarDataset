@@ -1,0 +1,90 @@
+{
+  "version": "4.5.13",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "هوالباقی",
+      "points": [
+        [
+          1773.0,
+          1696.0
+        ],
+        [
+          1193.0,
+          1476.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "مشت الهی بر  این تعلق گرفته که بهار فرحناک زندگی را خزانی ماتم زده",
+      "points": [
+        [
+          2941.0,
+          1284.0
+        ],
+        [
+          141.0,
+          1052.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "به انتظار بنشیند و این بارزترین تفسیر فبسفه آفرینش",
+      "points": [
+        [
+          2573.0,
+          1020.0
+        ],
+        [
+          501.0,
+          788.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "در فراخنای بی کران هستی و یگانه راز جاودانگی اوست",
+      "points": [
+        [
+          2597.0,
+          728.0
+        ],
+        [
+          505.0,
+          524.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "جناب آقای حاج جوادپیروزی",
+      "points": [
+        [
+          2509.0,
+          392.0
+        ],
+        [
+          465.0,
+          60.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "۲۰۲۳۰۴۰۷_۱۳۵۳۵۹.jpg",
+  "imageData": null,
+  "imageHeight": 2555,
+  "imageWidth": 3042
+}
